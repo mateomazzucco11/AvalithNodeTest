@@ -22,5 +22,5 @@ app.get('/goodmorning', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Corre en http://localhost:${port}`);
+    console.log(`Abrir en http://localhost:${port}`);
 })
